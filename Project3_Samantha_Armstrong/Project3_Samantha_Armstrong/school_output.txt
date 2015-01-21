@@ -1,0 +1,409 @@
+Ohio State University-Main Campus                         Columbus                 OH    64930   9168  4 Year  Public   
+Columbus State Community College                          Columbus                 OH    50240   3400  2 Year  Public   
+University of Cincinnati-Main Campus                      Cincinnati               OH    39019   9124  4 Year  Public   
+Cuyahoga Community College District                       Cleveland                OH    37652   3753  2 Year  Public   
+Sinclair Community College                                Dayton                   OH    35141   3008  2 Year  Public   
+Kent State University at Kent                             Kent                     OH    33819   9672  4 Year  Public   
+University of Akron Main Campus                           Akron                    OH    32451   8284  4 Year  Public   
+Ohio University-Main Campus                               Athens                   OH    32231  10282  4 Year  Public   
+University of Toledo                                      Toledo                   OH    25810   7864  4 Year  Public   
+Owens Community College                                   Perrysburg               OH    24676   3505  2 Year  Public   
+Wright State University-Main Campus                       Dayton                   OH    22047   8354  4 Year  Public   
+Cleveland State University                                Cleveland                OH    20983   9264  4 Year  Public   
+Bowling Green State University-Main Campus                Bowling Green            OH    20228   8914  4 Year  Public   
+Miami University-Oxford                                   Oxford                   OH    19952  11270  4 Year  Public   
+Cincinnati State Technical and Community College          Cincinnati               OH    19500   4265  2 Year  Public   
+Stark State College                                       North Canton             OH    19315   3528  2 Year  Public   
+Youngstown State University                               Youngstown               OH    17328   7483  4 Year  Public   
+Lorain County Community College                           Elyria                   OH    17311   3179  2 Year  Public   
+University of Dayton                                      Dayton                   OH    13572  32000  4 Year  Private  
+Lakeland Community College                                Kirtland                 OH    13236   3936  2 Year  Public   
+Case Western Reserve University                           Cleveland                OH    10335  40120  4 Year  Private  
+Franklin University                                       Columbus                 OH    10146   9960  4 Year  Private  
+Tiffin University                                         Tiffin                   OH     9771  19890  4 Year  Private  
+Clark State Community College                             Springfield              OH     9194   2754  2 Year  Public   
+Hocking College                                           Nelsonville              OH     9090   2880  2 Year  Public   
+Xavier University                                         Cincinnati               OH     8433  31140  4 Year  Private  
+Ashland University                                        Ashland                  OH     8136  27930  4 Year  Private  
+Northwest State Community College                         Archbold                 OH     7428   3264  2 Year  Public   
+Kent State University at Stark                            Canton                   OH     7015   5472  4 Year  Public   
+Central Ohio Technical College                            Newark                   OH     6923   4200  2 Year  Public   
+University of Cincinnati-Raymond Walters College          Blue Ash                 OH     6835   5170  4 Year  Public   
+The University of Findlay                                 Findlay                  OH     5945  28080  4 Year  Private  
+DeVry University-Ohio                                     Columbus                 OH     5902  16076  4 Year  Private  
+University of Northwestern Ohio                           Lima                     OH     5666   9276  4 Year  Private  
+Shawnee State University                                  Portsmouth               OH     5490   5918  4 Year  Public   
+Kent State University at Trumbull                         Warren                   OH     5424   5472  4 Year  Public   
+James A Rhodes State College                              Lima                     OH     5405   4312  2 Year  Public   
+University of Cincinnati-Clermont College                 Batavia                  OH     5261   4490  4 Year  Public   
+Baldwin-Wallace College                                   Berea                    OH     5069  27060  4 Year  Private  
+Fortis College-Centeville                                 Centerville              OH     5010  12200  2 Year  Private  
+Edison State Community College                            Piqua                    OH     4867   3410  4 Year  Public   
+Miami University-Hamilton                                 Hamilton                 OH     4797   4562  4 Year  Public   
+Kent State University at Geauga                           Burton                   OH     4768   5472  4 Year  Public   
+Southern State Community College                          Hillsboro                OH     4640   4032  2 Year  Public   
+North Central State College                               Mansfield                OH     4555   2883  2 Year  Public   
+Terra State Community College                             Fremont                  OH     4548   3820  2 Year  Public   
+Zane State College                                        Zanesville               OH     4372   4380  2 Year  Public   
+Capital University                                        Columbus                 OH     4353  31364  4 Year  Private  
+Marion Technical College                                  Marion                   OH     4344   3984  2 Year  Public   
+John Carroll University                                   University Heights       OH     4236  32130  4 Year  Private  
+Ohio University-Lancaster Campus                          Lancaster                OH     4012   5022  4 Year  Public   
+Ohio University-Zanesville Campus                         Zanesville               OH     3938   5030  4 Year  Public   
+Ohio Northern University                                  Ada                      OH     3698  35438  4 Year  Private  
+Kent State University at Ashtabula                        Ashtabula                OH     3687   5472  4 Year  Public   
+Eastern Gateway Community College                         Steubenville             OH     3677   3330  2 Year  Public   
+Cedarville University                                     Cedarville               OH     3595  25496  4 Year  Private  
+Ohio Dominican University                                 Columbus                 OH     3588  27574  4 Year  Private  
+Walsh University                                          North Canton             OH     3564  23550  4 Year  Private  
+Franciscan University of Steubenville                     Steubenville             OH     3491  21740  4 Year  Private  
+Muskingum University                                      New Concord              OH     3489  22000  4 Year  Private  
+Malone University                                         Canton                   OH     3465  23860  4 Year  Private  
+Ohio University-Chillicothe Campus                        Chillicothe              OH     3397   5022  4 Year  Public   
+Otterbein University                                      Westerville              OH     3366  30658  4 Year  Private  
+Ohio University-Southern Campus                           Ironton                  OH     3334   5022  4 Year  Public   
+Kent State University at Tuscarawas                       New Philadelphia         OH     3323   5472  4 Year  Public   
+Washington State Community College                        Marietta                 OH     3320   3990  2 Year  Public   
+Ohio Christian University                                 Circleville              OH     3243  16100  4 Year  Private  
+Ohio State University-Newark Campus                       Newark                   OH     3159   6912  4 Year  Public   
+Lourdes University                                        Sylvania                 OH     3109  16950  4 Year  Private  
+Oberlin College                                           Oberlin                  OH     3106  44512  4 Year  Private  
+Bowling Green State University-Firelands                  Huron                    OH     3042   4614  2 Year  Public   
+Kent State University at Salem                            Salem                    OH     3034   5472  4 Year  Public   
+University of Rio Grande                                  Rio Grande               OH     3034  19720  4 Year  Private  
+University of Akron Wayne College                         Orrville                 OH     3010   5940  2 Year  Public   
+Belmont Technical College                                 Saint Clairsville        OH     2924   2448  2 Year  Public   
+Miami University-Middletown                               Middletown               OH     2890   4562  4 Year  Public   
+Central State University                                  Wilberforce              OH     2840   3550  4 Year  Public   
+Brown Mackie College-Cincinnati                           Cincinnati               OH     2790  11304  2 Year  Private  
+Mount Vernon Nazarene University                          Mount Vernon             OH     2744  17574  4 Year  Private  
+College of Mount St. Joseph                               Cincinnati               OH     2631  24200  4 Year  Private  
+Union Institute & University                              Cincinnati               OH     2398  11544  4 Year  Private  
+Urbana University                                         Urbana                   OH     2380  20896  4 Year  Private  
+Kent State University at East Liverpool                   East Liverpool           OH     2374   5472  4 Year  Public   
+University of Mount Union                                 Alliance                 OH     2327  26350  4 Year  Private  
+Denison University                                        Granville                OH     2320  41380  4 Year  Private  
+Notre Dame College                                        Cleveland                OH     2313  24864  4 Year  Private  
+Wright State University-Lake Campus                       Celina                   OH     2171   5614  4 Year  Public   
+The College of Wooster                                    Wooster                  OH     2086  39500  4 Year  Private  
+Wittenberg University                                     Springfield              OH     2075  37230  4 Year  Private  
+Hondros College                                           Westerville              OH     2005  15466  4 Year  Private  
+Bryant & Stratton College-Cleveland                       Cleveland                OH     1919  14657  4 Year  Private  
+Ursuline College                                          Pepper Pike              OH     1866  25530  4 Year  Private  
+Ohio Wesleyan University                                  Delaware                 OH     1861  38890  4 Year  Private  
+Ohio State University-Marion Campus                       Marion                   OH     1808   6912  4 Year  Public   
+Marietta College                                          Marietta                 OH     1799  30090  4 Year  Private  
+Brown Mackie College-Akron                                Akron                    OH     1768  11304  2 Year  Private  
+Kenyon College                                            Gambier                  OH     1758  42780  4 Year  Private  
+Ohio University-Eastern Campus                            Saint Clairsville        OH     1722   5022  4 Year  Public   
+Bryant and Stratton College-Eastlake                      Eastlake                 OH     1684  15344  4 Year  Private  
+Wilmington College                                        Wilmington               OH     1682  27370  4 Year  Private  
+Ohio State University-Mansfield Campus                    Mansfield                OH     1644   6912  4 Year  Public   
+Bryant and Stratton College-Parma                         Parma                    OH     1570  15246  4 Year  Private  
+Heidelberg University                                     Tiffin                   OH     1563  24000  4 Year  Private  
+Ohio State University-Lima Campus                         Lima                     OH     1563   6912  4 Year  Public   
+Columbus College of Art and Design                        Columbus                 OH     1551  27504  4 Year  Private  
+Brown Mackie College-North Canton                         Canton                   OH     1526  11304  2 Year  Private  
+Hiram College                                             Hiram                    OH     1485  27615  4 Year  Private  
+Ohio Technical College                                    Cleveland                OH     1479     -1  2 Year  Private  
+Bluffton University                                       Bluffton                 OH     1431  26976  4 Year  Private  
+Stautzenberger College-Maumee                             Maumee                   OH     1426   9666  2 Year  Private  
+Sanford-Brown College-Middleburg Heights                  Middleburg Heights       OH     1424  15790  2 Year  Private  
+Mercy College of Ohio                                     Toledo                   OH     1342  10260  4 Year  Private  
+Lake Erie College                                         Painesville              OH     1314  25976  4 Year  Private  
+Brown Mackie College-Findlay                              Findlay                  OH     1226  11304  2 Year  Private  
+Defiance College                                          Defiance                 OH     1210  26740  4 Year  Private  
+Cincinnati Christian University                           Cincinnati               OH     1146  14766  4 Year  Private  
+Mount Carmel College of Nursing                           Columbus                 OH     1137  16403  4 Year  Private  
+Kettering College of Medical Arts                         Kettering                OH     1122   9576  4 Year  Private  
+Fortis College-Columbus                                   Westerville              OH     1097  22868  2 Year  Private  
+ITT Technical Institute-Youngstown                        Youngstown               OH     1091  17748  4 Year  Private  
+The Art Institute of Ohio-Cincinnati                      Cincinnati               OH     1083  17316  4 Year  Private  
+Akron Institute of Herzing University                     Akron                    OH     1052  10665  4 Year  Private  
+Fortis College-Cuyahoga Falls                             Cuyahoga Falls           OH     1045  13902  2 Year  Private  
+Lincoln College of Technology-Tri-County                  Cincinnati               OH     1019  11985  2 Year  Private  
+Remington College-Cleveland Campus                        Cleveland                OH     1018  16189  2 Year  Private  
+Fortis College-Cincinnati                                 Cincinnati               OH      964  12853  2 Year  Private  
+Miami-Jacobs Career College-Troy                          Troy                     OH      963  11664  2 Year  Private  
+ITT Technical Institute-Warrensville Heights              Warrensville Heights     OH      907  17748  4 Year  Private  
+Bradford School                                           Columbus                 OH      904  13980  2 Year  Private  
+Lincoln College of Technology-Dayton                      Dayton                   OH      887  11895  2 Year  Private  
+ITT Technical Institute-Norwood                           Norwood                  OH      885  17748  4 Year  Private  
+Beckfield College-Tri-County                              Springdale               OH      878  11700  2 Year  Private  
+ITT Technical Institute-Hilliard                          Hilliard                 OH      871  17748  4 Year  Private  
+Kaplan College-Dayton                                     Dayton                   OH      834     -1  2 Year  Private  
+Chamberlain College of Nursing-Ohio                       Columbus                 OH      821  16360  4 Year  Private  
+Antioch University-Midwest                                Yellow Springs           OH      820  25296  4 Year  Private  
+Chancellor University                                     Seven Hills              OH      805  11550  4 Year  Private  
+University of Phoenix-Cleveland Campus                    Independence             OH      767     -1  4 Year  Private  
+Ohio State University Agricultural Technical Institute    Wooster                  OH      761   6876  2 Year  Public   
+ITT Technical Institute-Strongsville                      Strongsville             OH      755  17748  4 Year  Private  
+ITT Technical Institute-Dayton                            Dayton                   OH      750  17748  4 Year  Private  
+Lincoln College of Technology-Vine Street                 Cincinnati               OH      740  11895  2 Year  Private  
+ATS Institute of Technology                               Highland Heights         OH      736  24905  2 Year  Private  
+ITT Technical Institute-Maumee                            Maumee                   OH      721  17748  4 Year  Private  
+Miami-Jacobs Career College-Dayton                        Dayton                   OH      720  11664  2 Year  Private  
+ITT Technical Institute-Columbus                          Columbus                 OH      698  17748  4 Year  Private  
+Ohio Business College-Sheffield                           Sheffield Village        OH      665   7740  2 Year  Private  
+Ohio Business College-Sandusky                            Sandusky                 OH      664   7740  2 Year  Private  
+Lincoln College of Technology-Toledo                      Toledo                   OH      659  11895  2 Year  Private  
+Fortis College-Ravenna                                    Ravenna                  OH      653  12017  2 Year  Private  
+Wilberforce University                                    Wilberforce              OH      620  12020  4 Year  Private  
+National College-Youngstown                               Youngstown               OH      613  11412  2 Year  Private  
+Remington College-Cleveland West Campus                   North Olmsted            OH      607  16209  2 Year  Private  
+Kaplan Career Institute-Brooklyn                          Brooklyn                 OH      566     -1  2 Year  Private  
+Miami-Jacobs Career College-Columbus                      Columbus                 OH      565  11664  2 Year  Private  
+Chatfield College                                         Saint Martin             OH      554   8450  2 Year  Private  
+Cleveland Institute of Art                                Cleveland                OH      549  32960  4 Year  Private  
+Antonelli College-Cincinnati                              Cincinnati               OH      547  15426  2 Year  Private  
+Kaplan College-Columbus                                   Columbus                 OH      546     -1  2 Year  Private  
+Herzing University-Toledo                                 Toledo                   OH      535  10660  4 Year  Private  
+Professional Skills Institute                             Toledo                   OH      518  13338  2 Year  Private  
+Miami-Jacobs Career College                               Independence             OH      491  12850  2 Year  Private  
+Trumbull Business College                                 Warren                   OH      476  12726  2 Year  Private  
+Cleveland Institute of Music                              Cleveland                OH      471  40300  4 Year  Private  
+Aultman College of Nursing and Health Sciences            Canton                   OH      458  16456  2 Year  Private  
+Miami-Jacobs Career College-Springboro                    Springboro               OH      457  11664  2 Year  Private  
+Vatterott College-Cleveland                               Broadview Heights        OH      439  11314  2 Year  Private  
+The Christ College of Nursing and Health Sciences         Cincinnati               OH      427  14060  2 Year  Private  
+Daymar College-Chillicothe                                Chillicothe              OH      426  18000  2 Year  Private  
+National College-Dayton                                   Kettering                OH      415  11412  2 Year  Private  
+National College-Cincinnati                               Cincinnati               OH      412  11412  2 Year  Private  
+Davis College                                             Toledo                   OH      402  10990  2 Year  Private  
+Good Samaritan College of Nursing & Health Science        Cincinnati               OH      393  15611  2 Year  Private  
+Daymar College-New Boston                                 New Boston               OH      385  18000  2 Year  Private  
+Lincoln College of Technology-Franklin LCT                Franklin                 OH      380  11895  2 Year  Private  
+Daymar College-Jackson                                    Jackson                  OH      369  18000  2 Year  Private  
+Ohio Technical College DBA PowerSport Institute LC        North Randall            OH      367     -1  2 Year  Private  
+ETI Technical College                                     Niles                    OH      363   8721  2 Year  Private  
+Gods Bible School and College                             Cincinnati               OH      363   5800  4 Year  Private  
+Stautzenberger College-Brecksville                        Brecksville              OH      361   9900  2 Year  Private  
+University of Phoenix-Columbus Ohio Campus                Columbus                 OH      344     -1  4 Year  Private  
+University of Phoenix-Cincinnati Campus                   West Chester             OH      329     -1  4 Year  Private  
+National College-Stow                                     Stow                     OH      328  11304  2 Year  Private  
+Ohio Valley College of Technology                         East Liverpool           OH      310   9965  2 Year  Private  
+Virginia Marti College of Art and Design                  Lakewood                 OH      297  15800  2 Year  Private  
+Athenaeum of Ohio                                         Cincinnati               OH      258  20400  4 Year  Private  
+Miami-Jacobs Career College-Sharonville                   Sharonville              OH      256  11664  2 Year  Private  
+Art Academy of Cincinnati                                 Cincinnati               OH      244  23950  4 Year  Private  
+Ohio College of Massotherapy Inc                          Akron                    OH      227  10763  2 Year  Private  
+National College-Columbus                                 Columbus                 OH      225  11412  2 Year  Private  
+Gallipolis Career College                                 Gallipolis               OH      224  11520  2 Year  Private  
+Pontifical College Josephinum                             Columbus                 OH      204  19415  4 Year  Private  
+Daymar College-Lancaster                                  Lancaster                OH      178  18000  2 Year  Private  
+Cincinnati College of Mortuary Science                    Cincinnati               OH      162  16875  4 Year  Private  
+Ohio Mid-Western College                                  Cincinnati               OH      135  10044  4 Year  Private  
+International College of Broadcasting                     Dayton                   OH      118  14560  2 Year  Private  
+School of Advertising Art Inc                             Kettering                OH      114  22399  2 Year  Private  
+National Institute of Massotherapy                        Akron                    OH      103     -1  2 Year  Private  
+Rosedale Bible College                                    Irwin                    OH       93   8070  2 Year  Private  
+Rabbinical College Telshe                                 Wickliffe                OH       78   8000  4 Year  Private  
+Tri-State Bible College                                   South Point              OH       57   7200  4 Year  Private  
+Allegheny Wesleyan College                                Salem                    OH       52   4800  4 Year  Private  
+The Art Institute of Cincinnati                           Cincinnati               OH       37  19524  2 Year  Private  
+Michigan State University                                 East Lansing             MI    53371  13211  4 Year  Public   
+Oakland Community College                                 Bloomfield Hills         MI    46007   2142  2 Year  Public   
+University of Michigan-Ann Arbor                          Ann Arbor                MI    44514  13625  4 Year  Public   
+Wayne State University                                    Detroit                  MI    36986   9747  4 Year  Public   
+Macomb Community College                                  Warren                   MI    35209   4061  2 Year  Public   
+Central Michigan University                               Mount Pleasant           MI    33045   9855  4 Year  Public   
+Grand Valley State University                             Allendale                MI    28906  10078  4 Year  Public   
+Wayne County Community College District                   Detroit                  MI    28677   2376  2 Year  Public   
+Eastern Michigan University                               Ypsilanti                MI    28575   7701  4 Year  Public   
+Western Michigan University                               Kalamazoo                MI    28533   9138  4 Year  Public   
+Lansing Community College                                 Lansing                  MI    27811   4860  2 Year  Public   
+Henry Ford Community College                              Dearborn                 MI    26428   3240  2 Year  Public   
+Grand Rapids Community College                            Grand Rapids             MI    25162   5160  2 Year  Public   
+Oakland University                                        Rochester Hills          MI    23802  10706  4 Year  Public   
+Schoolcraft College                                       Livonia                  MI    21006   3810  2 Year  Public   
+Washtenaw Community College                               Ann Arbor                MI    20860   3408  2 Year  Public   
+Ferris State University                                   Big Rapids               MI    17197  10192  4 Year  Public   
+Mott Community College                                    Flint                    MI    17045   3882  2 Year  Public   
+Kalamazoo Valley Community College                        Kalamazoo                MI    16850   4216  2 Year  Public   
+Delta College                                             University Center        MI    16694   4050  2 Year  Public   
+Davenport University                                      Grand Rapids             MI    16013  12672  4 Year  Private  
+Saginaw Valley State University                           University Center        MI    12913   7682  4 Year  Public   
+Northern Michigan University                              Marquette                MI    11302   8064  4 Year  Public   
+University of Michigan-Dearborn                           Dearborn                 MI    10540   9876  4 Year  Public   
+University of Michigan-Flint                              Flint                    MI     9884   8676  4 Year  Public   
+Kellogg Community College                                 Battle Creek             MI     9675   4251  2 Year  Public   
+Jackson Community College                                 Jackson                  MI     9515   3816  2 Year  Public   
+Baker College of Flint                                    Flint                    MI     9216   7740  4 Year  Private  
+Baker College of Clinton Township                         Clinton Township         MI     7710   7740  4 Year  Private  
+Michigan Technological University                         Houghton                 MI     7505  13095  4 Year  Public   
+Muskegon Community College                                Muskegon                 MI     7331   4052  2 Year  Public   
+Mid Michigan Community College                            Harrison                 MI     7104   4128  2 Year  Public   
+Lake Michigan College                                     Benton Harbor            MI     6550   3840  2 Year  Public   
+St Clair County Community College                         Port Huron               MI     6356   6014  2 Year  Public   
+Spring Arbor University                                   Spring Arbor             MI     6340  21998  4 Year  Private  
+Baker College of Muskegon                                 Muskegon                 MI     6306   7740  4 Year  Private  
+Northwestern Michigan College                             Traverse City            MI     6290   4645  2 Year  Public   
+University of Detroit Mercy                               Detroit                  MI     6283  34530  4 Year  Private  
+Monroe County Community College                           Monroe                   MI     6090   4320  2 Year  Public   
+Madonna University                                        Livonia                  MI     6010  15180  4 Year  Private  
+Baker College of Allen Park                               Allen Park               MI     5461   7740  4 Year  Private  
+Lawrence Technological University                         Southfield               MI     4884  27300  4 Year  Private  
+Andrews University                                        Berrien Springs          MI     4635  23700  4 Year  Private  
+Walsh College of Accountancy and Business Administration  Troy                     MI     4549  10800  4 Year  Private  
+Baker College of Auburn Hills                             Auburn Hills             MI     4470   7740  4 Year  Private  
+Calvin College                                            Grand Rapids             MI     4298  26480  4 Year  Private  
+North Central Michigan College                            Petoskey                 MI     4295   3840  2 Year  Public   
+Baker College of Owosso                                   Owosso                   MI     4167   7740  4 Year  Private  
+Northwood University-Michigan                             Midland                  MI     4121  20040  4 Year  Private  
+Southwestern Michigan College                             Dowagiac                 MI     4073   4177  2 Year  Public   
+Baker College of Jackson                                  Jackson                  MI     3714   7740  4 Year  Private  
+Cornerstone University                                    Grand Rapids             MI     3521  22690  4 Year  Private  
+Hope College                                              Holland                  MI     3512  27650  4 Year  Private  
+Marygrove College                                         Detroit                  MI     3345  18520  4 Year  Private  
+Siena Heights University                                  Adrian                   MI     3318  20532  4 Year  Private  
+Lake Superior State University                            Sault Ste Marie          MI     3143   9540  4 Year  Public   
+Bay de Noc Community College                              Escanaba                 MI     3034   5098  2 Year  Public   
+Baker College of Cadillac                                 Cadillac                 MI     2836   7740  4 Year  Private  
+Montcalm Community College                                Sidney                   MI     2796   4920  2 Year  Public   
+Alpena Community College                                  Alpena                   MI     2626   4980  2 Year  Public   
+Kettering University                                      Flint                    MI     2567  33946  4 Year  Private  
+University of Phoenix-Metro Detroit Campus                Troy                     MI     2533     -1  4 Year  Private  
+Kirtland Community College                                Roscommon                MI     2493   3840  2 Year  Public   
+Aquinas College                                           Grand Rapids             MI     2375  25070  4 Year  Private  
+West Shore Community College                              Scottville               MI     2154   3600  2 Year  Public   
+Baker College of Port Huron                               Port Huron               MI     1960   7740  4 Year  Private  
+Glen Oaks Community College                               Centreville              MI     1901   3312  2 Year  Public   
+ITT Technical Institute-Troy                              Troy                     MI     1800  17748  4 Year  Private  
+Adrian College                                            Adrian                   MI     1739  28606  4 Year  Private  
+Michigan Jewish Institute                                 W Bloomfield             MI     1715  10500  4 Year  Private  
+Albion College                                            Albion                   MI     1558  33600  4 Year  Private  
+College for Creative Studies                              Detroit                  MI     1459  33000  4 Year  Private  
+Gogebic Community College                                 Ironwood                 MI     1455   4154  2 Year  Public   
+Alma College                                              Alma                     MI     1437  30700  4 Year  Private  
+Kalamazoo College                                         Kalamazoo                MI     1421  37392  4 Year  Private  
+Olivet College                                            Olivet                   MI     1305  21150  4 Year  Private  
+Rochester College                                         Rochester Hills          MI     1281  17976  4 Year  Private  
+ITT Technical Institute-Swartz Creek                      Swartz Creek             MI     1191  17748  4 Year  Private  
+University of Phoenix-West Michigan Campus                Walker                   MI     1141     -1  4 Year  Private  
+International Academy of Design and Technology-Troy       Troy                     MI     1092  15200  4 Year  Private  
+ITT Technical Institute-Wyoming                           Wyoming                  MI     1062  17748  4 Year  Private  
+ITT Technical Institute-Canton                            Canton                   MI     1037  17748  4 Year  Private  
+Cleary University                                         Ann Arbor                MI      937  18480  4 Year  Private  
+Concordia University-Ann Arbor                            Ann Arbor                MI      910  22464  4 Year  Private  
+Bay Mills Community College                               Brimley                  MI      730   2660  2 Year  Public   
+Finlandia University                                      Hancock                  MI      671  19980  4 Year  Private  
+Sacred Heart Major Seminary                               Detroit                  MI      539  16405  4 Year  Private  
+Grace Bible College                                       Wyoming                  MI      455  10460  4 Year  Private  
+Kuyper College                                            Grand Rapids             MI      426  17400  4 Year  Private  
+DeVry University-Michigan                                 Southfield               MI      307  16076  4 Year  Private  
+Great Lakes Christian College                             Lansing                  MI      252  12480  4 Year  Private  
+Ecumenical Theological Seminary                           Detroit                  MI      202     -1  4 Year  Private  
+Saginaw Chippewa Tribal College                           Mount Pleasant           MI      172   1440  2 Year  Public   
+Yeshiva Gedolah of Greater Detroit                        Oak Park                 MI       82   5700  4 Year  Private  
+Indiana University-Bloomington                            Bloomington              IN    46154   8750  4 Year  Public   
+Purdue University-Main Campus                             West Lafayette           IN    44267   9208  4 Year  Public   
+Indiana University-Purdue University-Indianapolis         Indianapolis             IN    37519   7623  4 Year  Public   
+Ball State University                                     Muncie                   IN    24880   8318  4 Year  Public   
+Vincennes University                                      Vincennes                IN    23901   4483  4 Year  Public   
+Indiana Wesleyan University                               Marion                   IN    23871  23164  4 Year  Private  
+Indiana University-Purdue University-Fort Wayne           Fort Wayne               IN    17014   6001  4 Year  Public   
+Indiana State University                                  Terre Haute              IN    15018   7898  4 Year  Public   
+ITT Technical Institute-Indianapolis                      Indianapolis             IN    14411  16542  4 Year  Private  
+University of Southern Indiana                            Evansville               IN    14040   6085  4 Year  Public   
+University of Notre Dame                                  Notre Dame               IN    12702  42464  4 Year  Private  
+Purdue University-Calumet Campus                          Hammond                  IN    12612   5707  4 Year  Public   
+Indiana University-South Bend                             South Bend               IN    10188   6138  4 Year  Public   
+Harrison College-Anderson                                 Anderson                 IN     9791  13500  4 Year  Private  
+Harrison College-Indianapolis                             Indianapolis             IN     9791  13500  4 Year  Private  
+Harrison College-Indianapolis East                        Indianapolis             IN     9791  13500  4 Year  Private  
+Indiana University-Southeast                              New Albany               IN     8680   5960  4 Year  Public   
+Indiana University-Northwest                              Gary                     IN     7646   6043  4 Year  Public   
+Indiana Institute of Technology                           Fort Wayne               IN     7149  23970  4 Year  Private  
+Purdue University-North Central Campus                    Westville                IN     7025   5787  4 Year  Public   
+University of Indianapolis                                Indianapolis             IN     6579  23590  4 Year  Private  
+Indiana University-East                                   Richmond                 IN     4868   5964  4 Year  Public   
+Butler University                                         Indianapolis             IN     4818  32280  4 Year  Private  
+Valparaiso University                                     Valparaiso               IN     4454  31170  4 Year  Private  
+Indiana University-Kokomo                                 Kokomo                   IN     4133   5949  4 Year  Public   
+Oakland City University                                   Oakland City             IN     3343  18600  4 Year  Private  
+Marian University                                         Indianapolis             IN     3252  27300  4 Year  Private  
+University of Evansville                                  Evansville               IN     3095  29740  4 Year  Private  
+Anderson University                                       Anderson                 IN     3003  25400  4 Year  Private  
+Taylor University                                         Upland                   IN     2946  27850  4 Year  Private  
+University of Saint Francis-Fort Wayne                    Fort Wayne               IN     2656  23560  4 Year  Private  
+Brown Mackie College-Indianapolis                         Indianapolis             IN     2408  11952  4 Year  Private  
+DePauw University                                         Greencastle              IN     2381  38280  4 Year  Private  
+Brown Mackie College-Fort Wayne                           Fort Wayne               IN     2291  11304  4 Year  Private  
+Lincoln College of Technology-Indianapolis                Indianapolis             IN     2092     -1  2 Year  Private  
+Rose-Hulman Institute of Technology                       Terre Haute              IN     2039  38313  4 Year  Private  
+Trine University                                          Angola                   IN     1942  27660  4 Year  Private  
+Grace College and Theological Seminary                    Winona Lake              IN     1868  23290  4 Year  Private  
+The Art Institute of Indianapolis                         Indianapolis             IN     1611  17316  4 Year  Private  
+Saint Mary's College                                      Notre Dame               IN     1548  32560  4 Year  Private  
+MedTech College                                           Indianapolis             IN     1527  13791  2 Year  Private  
+Brown Mackie College-South Bend                           South Bend               IN     1459  11304  4 Year  Private  
+Saint Mary-of-the-Woods College                           Saint Mary of the Woods  IN     1418  26562  4 Year  Private  
+Calumet College of Saint Joseph                           Whiting                  IN     1403  14680  4 Year  Private  
+Huntington University                                     Huntington               IN     1380  23300  4 Year  Private  
+Martin University                                         Indianapolis             IN     1361  13860  4 Year  Private  
+Manchester College                                        North Manchester         IN     1359  25850  4 Year  Private  
+Earlham College                                           Richmond                 IN     1270  39200  4 Year  Private  
+Saint Josephs College                                     Rensselaer               IN     1203  27160  4 Year  Private  
+Franklin College                                          Franklin                 IN     1149  26710  4 Year  Private  
+Brown Mackie College-Merrillville                         Merrillville             IN     1134  11304  4 Year  Private  
+Goshen College                                            Goshen                   IN     1101  26900  4 Year  Private  
+Hanover College                                           Hanover                  IN     1076  29668  4 Year  Private  
+ITT Technical Institute-Fort Wayne                        Fort Wayne               IN      972  17748  4 Year  Private  
+University of Phoenix-Indianapolis Campus                 Indianapolis             IN      941     -1  4 Year  Private  
+Wabash College                                            Crawfordsville           IN      917  33300  4 Year  Private  
+MedTech College-Greenwood Campus                          Greenwood                IN      897  13791  2 Year  Private  
+MedTech College-Ft Wayne Campus                           Ft. Wayne                IN      889  13791  2 Year  Private  
+ITT Technical Institute-Newburgh                          Newburgh                 IN      845  17748  4 Year  Private  
+ITT Technical Institute-South Bend                        South Bend               IN      809  17748  4 Year  Private  
+Kaplan College-Hammond                                    Hammond                  IN      783     -1  2 Year  Private  
+Trine University-Regional/Non-Traditional Campuses        Fort Wayne               IN      770   9480  4 Year  Private  
+Brown Mackie College-Michigan City                        Michigan City            IN      724  11304  4 Year  Private  
+Kaplan College-Indianapolis                               Indianapolis             IN      707     -1  2 Year  Private  
+International Business College                            Fort Wayne               IN      672  13560  4 Year  Private  
+DeVry University-Indiana                                  Indianapolis             IN      644  16076  4 Year  Private  
+Ancilla College                                           Donaldson                IN      630  13650  2 Year  Private  
+Holy Cross College                                        Notre Dame               IN      485  21892  4 Year  Private  
+International Business College-Indianapolis               Indianapolis             IN      484  13880  2 Year  Private  
+College of Court Reporting Inc                            Hobart                   IN      325  12600  2 Year  Private  
+Crossroads Bible College                                  Indianapolis             IN      310  11850  4 Year  Private  
+Ottawa University-Jeffersonville                          Jeffersonville           IN      280  10200  4 Year  Private  
+Harrison College-Columbus                                 Columbus                 IN      238  13500  4 Year  Private  
+Mid-America College of Funeral Service                    Jeffersonville           IN      175   9000  4 Year  Private  
+Kaplan College-Merrillville                               Merrillville             IN      121     -1  2 Year  Private  
+Bethel College-Mishawaka                                  Mishawaka                IN       92   6750  4 Year  Private  
+*************************************************************************************************************************
+
+The average tuition for each state is: 
+Ohio:       $ 14430
+Michigan:   $ 12294
+Indiana:    $ 17674
+*************************************************************************************************************************
+
+The average tuition for private 4 year schools in Ohio over $20,000 is: $29636
+The University of Findlay's tuition rate is below this average.
+*************************************************************************************************************************
+
+Schools with the top three highest tuitions: 
+1. Oberlin College                                            $ 44512
+2. Kenyon College                                             $ 42780
+3. University of Notre Dame                                   $ 42464
+*************************************************************************************************************************
+
+There are 16 schools in Cincinnati with a tuition less than $18,000.
+
+University of Cincinnati-Main Campus                        $   9124
+Cincinnati State Technical and Community College            $   4265
+Brown Mackie College-Cincinnati                             $  11304
+Union Institute & University                                $  11544
+Cincinnati Christian University                             $  14766
+The Art Institute of Ohio-Cincinnati                        $  17316
+Lincoln College of Technology-Tri-County                    $  11985
+Fortis College-Cincinnati                                   $  12853
+Lincoln College of Technology-Vine Street                   $  11895
+Antonelli College-Cincinnati                                $  15426
+The Christ College of Nursing and Health Sciences           $  14060
+National College-Cincinnati                                 $  11412
+Good Samaritan College of Nursing & Health Science          $  15611
+Gods Bible School and College                               $   5800
+Cincinnati College of Mortuary Science                      $  16875
+Ohio Mid-Western College                                    $  10044

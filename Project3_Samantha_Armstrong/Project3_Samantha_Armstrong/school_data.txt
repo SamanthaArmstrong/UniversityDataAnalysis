@@ -1,0 +1,2245 @@
+OH
+Ohio State University-Main Campus
+Columbus
+9168
+64930
+4 Year
+Public
+Columbus State Community College
+Columbus
+3400
+50240
+2 Year
+Public
+University of Cincinnati-Main Campus
+Cincinnati
+9124
+39019
+4 Year
+Public
+Cuyahoga Community College District
+Cleveland
+3753
+37652
+2 Year
+Public
+Sinclair Community College
+Dayton
+3008
+35141
+2 Year
+Public
+Kent State University at Kent
+Kent
+9672
+33819
+4 Year
+Public
+University of Akron Main Campus
+Akron
+8284
+32451
+4 Year
+Public
+Ohio University-Main Campus
+Athens
+10282
+32231
+4 Year
+Public
+University of Toledo
+Toledo
+7864
+25810
+4 Year
+Public
+Owens Community College
+Perrysburg
+3505
+24676
+2 Year
+Public
+Wright State University-Main Campus
+Dayton
+8354
+22047
+4 Year
+Public
+Cleveland State University
+Cleveland
+9264
+20983
+4 Year
+Public
+Bowling Green State University-Main Campus
+Bowling Green
+8914
+20228
+4 Year
+Public
+Miami University-Oxford
+Oxford
+11270
+19952
+4 Year
+Public
+Cincinnati State Technical and Community College
+Cincinnati
+4265
+19500
+2 Year
+Public
+Stark State College
+North Canton
+3528
+19315
+2 Year
+Public
+Youngstown State University
+Youngstown
+7483
+17328
+4 Year
+Public
+Lorain County Community College
+Elyria
+3179
+17311
+2 Year
+Public
+University of Dayton
+Dayton
+32000
+13572
+4 Year
+Private
+Lakeland Community College
+Kirtland
+3936
+13236
+2 Year
+Public
+Case Western Reserve University
+Cleveland
+40120
+10335
+4 Year
+Private
+Franklin University
+Columbus
+9960
+10146
+4 Year
+Private
+Tiffin University
+Tiffin
+19890
+9771
+4 Year
+Private
+Clark State Community College
+Springfield
+2754
+9194
+2 Year
+Public
+Hocking College
+Nelsonville
+2880
+9090
+2 Year
+Public
+Xavier University
+Cincinnati
+31140
+8433
+4 Year
+Private
+Ashland University
+Ashland
+27930
+8136
+4 Year
+Private
+Northwest State Community College
+Archbold
+3264
+7428
+2 Year
+Public
+Kent State University at Stark
+Canton
+5472
+7015
+4 Year
+Public
+Central Ohio Technical College
+Newark
+4200
+6923
+2 Year
+Public
+University of Cincinnati-Raymond Walters College
+Blue Ash
+5170
+6835
+4 Year
+Public
+The University of Findlay
+Findlay
+28080
+5945
+4 Year
+Private
+DeVry University-Ohio
+Columbus
+16076
+5902
+4 Year
+Private
+University of Northwestern Ohio
+Lima
+9276
+5666
+4 Year
+Private
+Shawnee State University
+Portsmouth
+5918
+5490
+4 Year
+Public
+Kent State University at Trumbull
+Warren
+5472
+5424
+4 Year
+Public
+James A Rhodes State College
+Lima
+4312
+5405
+2 Year
+Public
+University of Cincinnati-Clermont College
+Batavia
+4490
+5261
+4 Year
+Public
+Baldwin-Wallace College
+Berea
+27060
+5069
+4 Year
+Private
+Fortis College-Centeville
+Centerville
+12200
+5010
+2 Year
+Private
+Edison State Community College
+Piqua
+3410
+4867
+4 Year
+Public
+Miami University-Hamilton
+Hamilton
+4562
+4797
+4 Year
+Public
+Kent State University at Geauga
+Burton
+5472
+4768
+4 Year
+Public
+Southern State Community College
+Hillsboro
+4032
+4640
+2 Year
+Public
+North Central State College
+Mansfield
+2883
+4555
+2 Year
+Public
+Terra State Community College
+Fremont
+3820
+4548
+2 Year
+Public
+Zane State College
+Zanesville
+4380
+4372
+2 Year
+Public
+Capital University
+Columbus
+31364
+4353
+4 Year
+Private
+Marion Technical College
+Marion
+3984
+4344
+2 Year
+Public
+John Carroll University
+University Heights
+32130
+4236
+4 Year
+Private
+Ohio University-Lancaster Campus
+Lancaster
+5022
+4012
+4 Year
+Public
+Ohio University-Zanesville Campus
+Zanesville
+5030
+3938
+4 Year
+Public
+Ohio Northern University
+Ada
+35438
+3698
+4 Year
+Private
+Kent State University at Ashtabula
+Ashtabula
+5472
+3687
+4 Year
+Public
+Eastern Gateway Community College
+Steubenville
+3330
+3677
+2 Year
+Public
+Cedarville University
+Cedarville
+25496
+3595
+4 Year
+Private
+Ohio Dominican University
+Columbus
+27574
+3588
+4 Year
+Private
+Walsh University
+North Canton
+23550
+3564
+4 Year
+Private
+Franciscan University of Steubenville
+Steubenville
+21740
+3491
+4 Year
+Private
+Muskingum University
+New Concord
+22000
+3489
+4 Year
+Private
+Malone University
+Canton
+23860
+3465
+4 Year
+Private
+Ohio University-Chillicothe Campus
+Chillicothe
+5022
+3397
+4 Year
+Public
+Otterbein University
+Westerville
+30658
+3366
+4 Year
+Private
+Ohio University-Southern Campus
+Ironton
+5022
+3334
+4 Year
+Public
+Kent State University at Tuscarawas
+New Philadelphia
+5472
+3323
+4 Year
+Public
+Washington State Community College
+Marietta
+3990
+3320
+2 Year
+Public
+Ohio Christian University
+Circleville
+16100
+3243
+4 Year
+Private
+Ohio State University-Newark Campus
+Newark
+6912
+3159
+4 Year
+Public
+Lourdes University
+Sylvania
+16950
+3109
+4 Year
+Private
+Oberlin College
+Oberlin
+44512
+3106
+4 Year
+Private
+Bowling Green State University-Firelands
+Huron
+4614
+3042
+2 Year
+Public
+Kent State University at Salem
+Salem
+5472
+3034
+4 Year
+Public
+University of Rio Grande
+Rio Grande
+19720
+3034
+4 Year
+Private
+University of Akron Wayne College
+Orrville
+5940
+3010
+2 Year
+Public
+Belmont Technical College
+Saint Clairsville
+2448
+2924
+2 Year
+Public
+Miami University-Middletown
+Middletown
+4562
+2890
+4 Year
+Public
+Central State University
+Wilberforce
+3550
+2840
+4 Year
+Public
+Brown Mackie College-Cincinnati
+Cincinnati
+11304
+2790
+2 Year
+Private
+Mount Vernon Nazarene University
+Mount Vernon
+17574
+2744
+4 Year
+Private
+College of Mount St. Joseph
+Cincinnati
+24200
+2631
+4 Year
+Private
+Union Institute & University
+Cincinnati
+11544
+2398
+4 Year
+Private
+Urbana University
+Urbana
+20896
+2380
+4 Year
+Private
+Kent State University at East Liverpool
+East Liverpool
+5472
+2374
+4 Year
+Public
+University of Mount Union
+Alliance
+26350
+2327
+4 Year
+Private
+Denison University
+Granville
+41380
+2320
+4 Year
+Private
+Notre Dame College
+Cleveland
+24864
+2313
+4 Year
+Private
+Wright State University-Lake Campus
+Celina
+5614
+2171
+4 Year
+Public
+The College of Wooster
+Wooster
+39500
+2086
+4 Year
+Private
+Wittenberg University
+Springfield
+37230
+2075
+4 Year
+Private
+Hondros College
+Westerville
+15466
+2005
+4 Year
+Private
+Bryant & Stratton College-Cleveland
+Cleveland
+14657
+1919
+4 Year
+Private
+Ursuline College
+Pepper Pike
+25530
+1866
+4 Year
+Private
+Ohio Wesleyan University
+Delaware
+38890
+1861
+4 Year
+Private
+Ohio State University-Marion Campus
+Marion
+6912
+1808
+4 Year
+Public
+Marietta College
+Marietta
+30090
+1799
+4 Year
+Private
+Brown Mackie College-Akron
+Akron
+11304
+1768
+2 Year
+Private
+Kenyon College
+Gambier
+42780
+1758
+4 Year
+Private
+Ohio University-Eastern Campus
+Saint Clairsville
+5022
+1722
+4 Year
+Public
+Bryant and Stratton College-Eastlake
+Eastlake
+15344
+1684
+4 Year
+Private
+Wilmington College
+Wilmington
+27370
+1682
+4 Year
+Private
+Ohio State University-Mansfield Campus
+Mansfield
+6912
+1644
+4 Year
+Public
+Bryant and Stratton College-Parma
+Parma
+15246
+1570
+4 Year
+Private
+Heidelberg University
+Tiffin
+24000
+1563
+4 Year
+Private
+Ohio State University-Lima Campus
+Lima
+6912
+1563
+4 Year
+Public
+Columbus College of Art and Design
+Columbus
+27504
+1551
+4 Year
+Private
+Brown Mackie College-North Canton
+Canton
+11304
+1526
+2 Year
+Private
+Hiram College
+Hiram
+27615
+1485
+4 Year
+Private
+Ohio Technical College
+Cleveland
+-1
+1479
+2 Year
+Private
+Bluffton University
+Bluffton
+26976
+1431
+4 Year
+Private
+Stautzenberger College-Maumee
+Maumee
+9666
+1426
+2 Year
+Private
+Sanford-Brown College-Middleburg Heights
+Middleburg Heights
+15790
+1424
+2 Year
+Private
+Mercy College of Ohio
+Toledo
+10260
+1342
+4 Year
+Private
+Lake Erie College
+Painesville
+25976
+1314
+4 Year
+Private
+Brown Mackie College-Findlay
+Findlay
+11304
+1226
+2 Year
+Private
+Defiance College
+Defiance
+26740
+1210
+4 Year
+Private
+Cincinnati Christian University
+Cincinnati
+14766
+1146
+4 Year
+Private
+Mount Carmel College of Nursing
+Columbus
+16403
+1137
+4 Year
+Private
+Kettering College of Medical Arts
+Kettering
+9576
+1122
+4 Year
+Private
+Fortis College-Columbus
+Westerville
+22868
+1097
+2 Year
+Private
+ITT Technical Institute-Youngstown
+Youngstown
+17748
+1091
+4 Year
+Private
+The Art Institute of Ohio-Cincinnati
+Cincinnati
+17316
+1083
+4 Year
+Private
+Akron Institute of Herzing University
+Akron
+10665
+1052
+4 Year
+Private
+Fortis College-Cuyahoga Falls
+Cuyahoga Falls
+13902
+1045
+2 Year
+Private
+Lincoln College of Technology-Tri-County
+Cincinnati
+11985
+1019
+2 Year
+Private
+Remington College-Cleveland Campus
+Cleveland
+16189
+1018
+2 Year
+Private
+Fortis College-Cincinnati
+Cincinnati
+12853
+964
+2 Year
+Private
+Miami-Jacobs Career College-Troy
+Troy
+11664
+963
+2 Year
+Private
+ITT Technical Institute-Warrensville Heights
+Warrensville Heights
+17748
+907
+4 Year
+Private
+Bradford School
+Columbus
+13980
+904
+2 Year
+Private
+Lincoln College of Technology-Dayton
+Dayton
+11895
+887
+2 Year
+Private
+ITT Technical Institute-Norwood
+Norwood
+17748
+885
+4 Year
+Private
+Beckfield College-Tri-County
+Springdale
+11700
+878
+2 Year
+Private
+ITT Technical Institute-Hilliard
+Hilliard
+17748
+871
+4 Year
+Private
+Kaplan College-Dayton
+Dayton
+-1
+834
+2 Year
+Private
+Chamberlain College of Nursing-Ohio
+Columbus
+16360
+821
+4 Year
+Private
+Antioch University-Midwest
+Yellow Springs
+25296
+820
+4 Year
+Private
+Chancellor University
+Seven Hills
+11550
+805
+4 Year
+Private
+University of Phoenix-Cleveland Campus
+Independence
+-1
+767
+4 Year
+Private
+Ohio State University Agricultural Technical Institute
+Wooster
+6876
+761
+2 Year
+Public
+ITT Technical Institute-Strongsville
+Strongsville
+17748
+755
+4 Year
+Private
+ITT Technical Institute-Dayton
+Dayton
+17748
+750
+4 Year
+Private
+Lincoln College of Technology-Vine Street
+Cincinnati
+11895
+740
+2 Year
+Private
+ATS Institute of Technology
+Highland Heights
+24905
+736
+2 Year
+Private
+ITT Technical Institute-Maumee
+Maumee
+17748
+721
+4 Year
+Private
+Miami-Jacobs Career College-Dayton
+Dayton
+11664
+720
+2 Year
+Private
+ITT Technical Institute-Columbus
+Columbus
+17748
+698
+4 Year
+Private
+Ohio Business College-Sheffield
+Sheffield Village
+7740
+665
+2 Year
+Private
+Ohio Business College-Sandusky
+Sandusky
+7740
+664
+2 Year
+Private
+Lincoln College of Technology-Toledo
+Toledo
+11895
+659
+2 Year
+Private
+Fortis College-Ravenna
+Ravenna
+12017
+653
+2 Year
+Private
+Wilberforce University
+Wilberforce
+12020
+620
+4 Year
+Private
+National College-Youngstown
+Youngstown
+11412
+613
+2 Year
+Private
+Remington College-Cleveland West Campus
+North Olmsted
+16209
+607
+2 Year
+Private
+Kaplan Career Institute-Brooklyn
+Brooklyn
+-1
+566
+2 Year
+Private
+Miami-Jacobs Career College-Columbus
+Columbus
+11664
+565
+2 Year
+Private
+Chatfield College
+Saint Martin
+8450
+554
+2 Year
+Private
+Cleveland Institute of Art
+Cleveland
+32960
+549
+4 Year
+Private
+Antonelli College-Cincinnati
+Cincinnati
+15426
+547
+2 Year
+Private
+Kaplan College-Columbus
+Columbus
+-1
+546
+2 Year
+Private
+Herzing University-Toledo
+Toledo
+10660
+535
+4 Year
+Private
+Professional Skills Institute
+Toledo
+13338
+518
+2 Year
+Private
+Miami-Jacobs Career College
+Independence
+12850
+491
+2 Year
+Private
+Trumbull Business College
+Warren
+12726
+476
+2 Year
+Private
+Cleveland Institute of Music
+Cleveland
+40300
+471
+4 Year
+Private
+Aultman College of Nursing and Health Sciences
+Canton
+16456
+458
+2 Year
+Private
+Miami-Jacobs Career College-Springboro
+Springboro
+11664
+457
+2 Year
+Private
+Vatterott College-Cleveland
+Broadview Heights
+11314
+439
+2 Year
+Private
+The Christ College of Nursing and Health Sciences
+Cincinnati
+14060
+427
+2 Year
+Private
+Daymar College-Chillicothe
+Chillicothe
+18000
+426
+2 Year
+Private
+National College-Dayton
+Kettering
+11412
+415
+2 Year
+Private
+National College-Cincinnati
+Cincinnati
+11412
+412
+2 Year
+Private
+Davis College
+Toledo
+10990
+402
+2 Year
+Private
+Good Samaritan College of Nursing & Health Science
+Cincinnati
+15611
+393
+2 Year
+Private
+Daymar College-New Boston
+New Boston
+18000
+385
+2 Year
+Private
+Lincoln College of Technology-Franklin LCT
+Franklin
+11895
+380
+2 Year
+Private
+Daymar College-Jackson
+Jackson
+18000
+369
+2 Year
+Private
+Ohio Technical College DBA PowerSport Institute LC
+North Randall
+-1
+367
+2 Year
+Private
+ETI Technical College
+Niles
+8721
+363
+2 Year
+Private
+Gods Bible School and College
+Cincinnati
+5800
+363
+4 Year
+Private
+Stautzenberger College-Brecksville
+Brecksville
+9900
+361
+2 Year
+Private
+University of Phoenix-Columbus Ohio Campus
+Columbus
+-1
+344
+4 Year
+Private
+University of Phoenix-Cincinnati Campus
+West Chester
+-1
+329
+4 Year
+Private
+National College-Stow
+Stow
+11304
+328
+2 Year
+Private
+Ohio Valley College of Technology
+East Liverpool
+9965
+310
+2 Year
+Private
+Virginia Marti College of Art and Design
+Lakewood
+15800
+297
+2 Year
+Private
+Athenaeum of Ohio
+Cincinnati
+20400
+258
+4 Year
+Private
+Miami-Jacobs Career College-Sharonville
+Sharonville
+11664
+256
+2 Year
+Private
+Art Academy of Cincinnati
+Cincinnati
+23950
+244
+4 Year
+Private
+Ohio College of Massotherapy Inc
+Akron
+10763
+227
+2 Year
+Private
+National College-Columbus
+Columbus
+11412
+225
+2 Year
+Private
+Gallipolis Career College
+Gallipolis
+11520
+224
+2 Year
+Private
+Pontifical College Josephinum
+Columbus
+19415
+204
+4 Year
+Private
+Daymar College-Lancaster
+Lancaster
+18000
+178
+2 Year
+Private
+Cincinnati College of Mortuary Science
+Cincinnati
+16875
+162
+4 Year
+Private
+Ohio Mid-Western College
+Cincinnati
+10044
+135
+4 Year
+Private
+International College of Broadcasting
+Dayton
+14560
+118
+2 Year
+Private
+School of Advertising Art Inc
+Kettering
+22399
+114
+2 Year
+Private
+National Institute of Massotherapy
+Akron
+-1
+103
+2 Year
+Private
+Rosedale Bible College
+Irwin
+8070
+93
+2 Year
+Private
+Rabbinical College Telshe
+Wickliffe
+8000
+78
+4 Year
+Private
+Tri-State Bible College
+South Point
+7200
+57
+4 Year
+Private
+Allegheny Wesleyan College
+Salem
+4800
+52
+4 Year
+Private
+The Art Institute of Cincinnati
+Cincinnati
+19524
+37
+2 Year
+Private
++++
+MI
+Michigan State University
+East Lansing
+13211
+53371
+4 Year
+Public
+Oakland Community College
+Bloomfield Hills
+2142
+46007
+2 Year
+Public
+University of Michigan-Ann Arbor
+Ann Arbor
+13625
+44514
+4 Year
+Public
+Wayne State University
+Detroit
+9747
+36986
+4 Year
+Public
+Macomb Community College
+Warren
+4061
+35209
+2 Year
+Public
+Central Michigan University
+Mount Pleasant
+9855
+33045
+4 Year
+Public
+Grand Valley State University
+Allendale
+10078
+28906
+4 Year
+Public
+Wayne County Community College District
+Detroit
+2376
+28677
+2 Year
+Public
+Eastern Michigan University
+Ypsilanti
+7701
+28575
+4 Year
+Public
+Western Michigan University
+Kalamazoo
+9138
+28533
+4 Year
+Public
+Lansing Community College
+Lansing
+4860
+27811
+2 Year
+Public
+Henry Ford Community College
+Dearborn
+3240
+26428
+2 Year
+Public
+Grand Rapids Community College
+Grand Rapids
+5160
+25162
+2 Year
+Public
+Oakland University
+Rochester Hills
+10706
+23802
+4 Year
+Public
+Schoolcraft College
+Livonia
+3810
+21006
+2 Year
+Public
+Washtenaw Community College
+Ann Arbor
+3408
+20860
+2 Year
+Public
+Ferris State University
+Big Rapids
+10192
+17197
+4 Year
+Public
+Mott Community College
+Flint
+3882
+17045
+2 Year
+Public
+Kalamazoo Valley Community College
+Kalamazoo
+4216
+16850
+2 Year
+Public
+Delta College
+University Center
+4050
+16694
+2 Year
+Public
+Davenport University
+Grand Rapids
+12672
+16013
+4 Year
+Private
+Saginaw Valley State University
+University Center
+7682
+12913
+4 Year
+Public
+Northern Michigan University
+Marquette
+8064
+11302
+4 Year
+Public
+University of Michigan-Dearborn
+Dearborn
+9876
+10540
+4 Year
+Public
+University of Michigan-Flint
+Flint
+8676
+9884
+4 Year
+Public
+Kellogg Community College
+Battle Creek
+4251
+9675
+2 Year
+Public
+Jackson Community College
+Jackson
+3816
+9515
+2 Year
+Public
+Baker College of Flint
+Flint
+7740
+9216
+4 Year
+Private
+Baker College of Clinton Township
+Clinton Township
+7740
+7710
+4 Year
+Private
+Michigan Technological University
+Houghton
+13095
+7505
+4 Year
+Public
+Muskegon Community College
+Muskegon
+4052
+7331
+2 Year
+Public
+Mid Michigan Community College
+Harrison
+4128
+7104
+2 Year
+Public
+Lake Michigan College
+Benton Harbor
+3840
+6550
+2 Year
+Public
+St Clair County Community College
+Port Huron
+6014
+6356
+2 Year
+Public
+Spring Arbor University
+Spring Arbor
+21998
+6340
+4 Year
+Private
+Baker College of Muskegon
+Muskegon
+7740
+6306
+4 Year
+Private
+Northwestern Michigan College
+Traverse City
+4645
+6290
+2 Year
+Public
+University of Detroit Mercy
+Detroit
+34530
+6283
+4 Year
+Private
+Monroe County Community College
+Monroe
+4320
+6090
+2 Year
+Public
+Madonna University
+Livonia
+15180
+6010
+4 Year
+Private
+Baker College of Allen Park
+Allen Park
+7740
+5461
+4 Year
+Private
+Lawrence Technological University
+Southfield
+27300
+4884
+4 Year
+Private
+Andrews University
+Berrien Springs
+23700
+4635
+4 Year
+Private
+Walsh College of Accountancy and Business Administration
+Troy
+10800
+4549
+4 Year
+Private
+Baker College of Auburn Hills
+Auburn Hills
+7740
+4470
+4 Year
+Private
+Calvin College
+Grand Rapids
+26480
+4298
+4 Year
+Private
+North Central Michigan College
+Petoskey
+3840
+4295
+2 Year
+Public
+Baker College of Owosso
+Owosso
+7740
+4167
+4 Year
+Private
+Northwood University-Michigan
+Midland
+20040
+4121
+4 Year
+Private
+Southwestern Michigan College
+Dowagiac
+4177
+4073
+2 Year
+Public
+Baker College of Jackson
+Jackson
+7740
+3714
+4 Year
+Private
+Cornerstone University
+Grand Rapids
+22690
+3521
+4 Year
+Private
+Hope College
+Holland
+27650
+3512
+4 Year
+Private
+Marygrove College
+Detroit
+18520
+3345
+4 Year
+Private
+Siena Heights University
+Adrian
+20532
+3318
+4 Year
+Private
+Lake Superior State University
+Sault Ste Marie
+9540
+3143
+4 Year
+Public
+Bay de Noc Community College
+Escanaba
+5098
+3034
+2 Year
+Public
+Baker College of Cadillac
+Cadillac
+7740
+2836
+4 Year
+Private
+Montcalm Community College
+Sidney
+4920
+2796
+2 Year
+Public
+Alpena Community College
+Alpena
+4980
+2626
+2 Year
+Public
+Kettering University
+Flint
+33946
+2567
+4 Year
+Private
+University of Phoenix-Metro Detroit Campus
+Troy
+-1
+2533
+4 Year
+Private
+Kirtland Community College
+Roscommon
+3840
+2493
+2 Year
+Public
+Aquinas College
+Grand Rapids
+25070
+2375
+4 Year
+Private
+West Shore Community College
+Scottville
+3600
+2154
+2 Year
+Public
+Baker College of Port Huron
+Port Huron
+7740
+1960
+4 Year
+Private
+Glen Oaks Community College
+Centreville
+3312
+1901
+2 Year
+Public
+ITT Technical Institute-Troy
+Troy
+17748
+1800
+4 Year
+Private
+Adrian College
+Adrian
+28606
+1739
+4 Year
+Private
+Michigan Jewish Institute
+W Bloomfield
+10500
+1715
+4 Year
+Private
+Albion College
+Albion
+33600
+1558
+4 Year
+Private
+College for Creative Studies
+Detroit
+33000
+1459
+4 Year
+Private
+Gogebic Community College
+Ironwood
+4154
+1455
+2 Year
+Public
+Alma College
+Alma
+30700
+1437
+4 Year
+Private
+Kalamazoo College
+Kalamazoo
+37392
+1421
+4 Year
+Private
+Olivet College
+Olivet
+21150
+1305
+4 Year
+Private
+Rochester College
+Rochester Hills
+17976
+1281
+4 Year
+Private
+ITT Technical Institute-Swartz Creek
+Swartz Creek
+17748
+1191
+4 Year
+Private
+University of Phoenix-West Michigan Campus
+Walker
+-1
+1141
+4 Year
+Private
+International Academy of Design and Technology-Troy
+Troy
+15200
+1092
+4 Year
+Private
+ITT Technical Institute-Wyoming
+Wyoming
+17748
+1062
+4 Year
+Private
+ITT Technical Institute-Canton
+Canton
+17748
+1037
+4 Year
+Private
+Cleary University
+Ann Arbor
+18480
+937
+4 Year
+Private
+Concordia University-Ann Arbor
+Ann Arbor
+22464
+910
+4 Year
+Private
+Bay Mills Community College
+Brimley
+2660
+730
+2 Year
+Public
+Finlandia University
+Hancock
+19980
+671
+4 Year
+Private
+Sacred Heart Major Seminary
+Detroit
+16405
+539
+4 Year
+Private
+Grace Bible College
+Wyoming
+10460
+455
+4 Year
+Private
+Kuyper College
+Grand Rapids
+17400
+426
+4 Year
+Private
+DeVry University-Michigan
+Southfield
+16076
+307
+4 Year
+Private
+Great Lakes Christian College
+Lansing
+12480
+252
+4 Year
+Private
+Ecumenical Theological Seminary
+Detroit
+-1
+202
+4 Year
+Private
+Saginaw Chippewa Tribal College
+Mount Pleasant
+1440
+172
+2 Year
+Public
+Yeshiva Gedolah of Greater Detroit
+Oak Park
+5700
+82
+4 Year
+Private
++++
+IN
+Indiana University-Bloomington
+Bloomington
+8750
+46154
+4 Year
+Public
+Purdue University-Main Campus
+West Lafayette
+9208
+44267
+4 Year
+Public
+Indiana University-Purdue University-Indianapolis
+Indianapolis
+7623
+37519
+4 Year
+Public
+Ball State University
+Muncie
+8318
+24880
+4 Year
+Public
+Vincennes University
+Vincennes
+4483
+23901
+4 Year
+Public
+Indiana Wesleyan University
+Marion
+23164
+23871
+4 Year
+Private
+Indiana University-Purdue University-Fort Wayne
+Fort Wayne
+6001
+17014
+4 Year
+Public
+Indiana State University
+Terre Haute
+7898
+15018
+4 Year
+Public
+ITT Technical Institute-Indianapolis
+Indianapolis
+16542
+14411
+4 Year
+Private
+University of Southern Indiana
+Evansville
+6085
+14040
+4 Year
+Public
+University of Notre Dame
+Notre Dame
+42464
+12702
+4 Year
+Private
+Purdue University-Calumet Campus
+Hammond
+5707
+12612
+4 Year
+Public
+Indiana University-South Bend
+South Bend
+6138
+10188
+4 Year
+Public
+Harrison College-Anderson
+Anderson
+13500
+9791
+4 Year
+Private
+Harrison College-Indianapolis
+Indianapolis
+13500
+9791
+4 Year
+Private
+Harrison College-Indianapolis East
+Indianapolis
+13500
+9791
+4 Year
+Private
+Indiana University-Southeast
+New Albany
+5960
+8680
+4 Year
+Public
+Indiana University-Northwest
+Gary
+6043
+7646
+4 Year
+Public
+Indiana Institute of Technology
+Fort Wayne
+23970
+7149
+4 Year
+Private
+Purdue University-North Central Campus
+Westville
+5787
+7025
+4 Year
+Public
+University of Indianapolis
+Indianapolis
+23590
+6579
+4 Year
+Private
+Indiana University-East
+Richmond
+5964
+4868
+4 Year
+Public
+Butler University
+Indianapolis
+32280
+4818
+4 Year
+Private
+Valparaiso University
+Valparaiso
+31170
+4454
+4 Year
+Private
+Indiana University-Kokomo
+Kokomo
+5949
+4133
+4 Year
+Public
+Oakland City University
+Oakland City
+18600
+3343
+4 Year
+Private
+Marian University
+Indianapolis
+27300
+3252
+4 Year
+Private
+University of Evansville
+Evansville
+29740
+3095
+4 Year
+Private
+Anderson University
+Anderson
+25400
+3003
+4 Year
+Private
+Taylor University
+Upland
+27850
+2946
+4 Year
+Private
+University of Saint Francis-Fort Wayne
+Fort Wayne
+23560
+2656
+4 Year
+Private
+Brown Mackie College-Indianapolis
+Indianapolis
+11952
+2408
+4 Year
+Private
+DePauw University
+Greencastle
+38280
+2381
+4 Year
+Private
+Brown Mackie College-Fort Wayne
+Fort Wayne
+11304
+2291
+4 Year
+Private
+Lincoln College of Technology-Indianapolis
+Indianapolis
+-1
+2092
+2 Year
+Private
+Rose-Hulman Institute of Technology
+Terre Haute
+38313
+2039
+4 Year
+Private
+Trine University
+Angola
+27660
+1942
+4 Year
+Private
+Grace College and Theological Seminary
+Winona Lake
+23290
+1868
+4 Year
+Private
+The Art Institute of Indianapolis
+Indianapolis
+17316
+1611
+4 Year
+Private
+Saint Mary's College
+Notre Dame
+32560
+1548
+4 Year
+Private
+MedTech College
+Indianapolis
+13791
+1527
+2 Year
+Private
+Brown Mackie College-South Bend
+South Bend
+11304
+1459
+4 Year
+Private
+Saint Mary-of-the-Woods College
+Saint Mary of the Woods
+26562
+1418
+4 Year
+Private
+Calumet College of Saint Joseph
+Whiting
+14680
+1403
+4 Year
+Private
+Huntington University
+Huntington
+23300
+1380
+4 Year
+Private
+Martin University
+Indianapolis
+13860
+1361
+4 Year
+Private
+Manchester College
+North Manchester
+25850
+1359
+4 Year
+Private
+Earlham College
+Richmond
+39200
+1270
+4 Year
+Private
+Saint Josephs College
+Rensselaer
+27160
+1203
+4 Year
+Private
+Franklin College
+Franklin
+26710
+1149
+4 Year
+Private
+Brown Mackie College-Merrillville
+Merrillville
+11304
+1134
+4 Year
+Private
+Goshen College
+Goshen
+26900
+1101
+4 Year
+Private
+Hanover College
+Hanover
+29668
+1076
+4 Year
+Private
+ITT Technical Institute-Fort Wayne
+Fort Wayne
+17748
+972
+4 Year
+Private
+University of Phoenix-Indianapolis Campus
+Indianapolis
+-1
+941
+4 Year
+Private
+Wabash College
+Crawfordsville
+33300
+917
+4 Year
+Private
+MedTech College-Greenwood Campus
+Greenwood
+13791
+897
+2 Year
+Private
+MedTech College-Ft Wayne Campus
+Ft. Wayne
+13791
+889
+2 Year
+Private
+ITT Technical Institute-Newburgh
+Newburgh
+17748
+845
+4 Year
+Private
+ITT Technical Institute-South Bend
+South Bend
+17748
+809
+4 Year
+Private
+Kaplan College-Hammond
+Hammond
+-1
+783
+2 Year
+Private
+Trine University-Regional/Non-Traditional Campuses
+Fort Wayne
+9480
+770
+4 Year
+Private
+Brown Mackie College-Michigan City
+Michigan City
+11304
+724
+4 Year
+Private
+Kaplan College-Indianapolis
+Indianapolis
+-1
+707
+2 Year
+Private
+International Business College
+Fort Wayne
+13560
+672
+4 Year
+Private
+DeVry University-Indiana
+Indianapolis
+16076
+644
+4 Year
+Private
+Ancilla College
+Donaldson
+13650
+630
+2 Year
+Private
+Holy Cross College
+Notre Dame
+21892
+485
+4 Year
+Private
+International Business College-Indianapolis
+Indianapolis
+13880
+484
+2 Year
+Private
+College of Court Reporting Inc
+Hobart
+12600
+325
+2 Year
+Private
+Crossroads Bible College
+Indianapolis
+11850
+310
+4 Year
+Private
+Ottawa University-Jeffersonville
+Jeffersonville
+10200
+280
+4 Year
+Private
+Harrison College-Columbus
+Columbus
+13500
+238
+4 Year
+Private
+Mid-America College of Funeral Service
+Jeffersonville
+9000
+175
+4 Year
+Private
+Kaplan College-Merrillville
+Merrillville
+-1
+121
+2 Year
+Private
+Bethel College-Mishawaka
+Mishawaka
+6750
+92
+4 Year
+Private
++++
+***
